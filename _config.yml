@@ -113,8 +113,8 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: "https://kimjinwoo.me"
-# baseurl: ""
+# baseurl: "https://kimjinwoo.me"
+baseurl: ""
 
 # ------------ The following options are not recommended to be modified ------------------
 
