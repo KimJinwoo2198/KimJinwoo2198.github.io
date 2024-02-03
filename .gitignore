@@ -22,5 +22,6 @@ package-lock.json
 *.map
 sw.min.js
 assets/js/dist
+.DS_Store
 =======
 >>>>>>> 5cd7aaf (chore: initialize the environment)
