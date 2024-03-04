@@ -1,5 +1,5 @@
 ---
-title: "[ Python 강의 ] 10. List"
+title: "[ Python 강의 ] 11. List"
 date: 2024-03-03 14:05:00 +09:00
 author: KimJinwoo
 category: [강의, 파이썬]
