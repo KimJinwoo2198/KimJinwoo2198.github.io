@@ -23,7 +23,7 @@ description: >- # used by seo meta and the atom feed
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://kimjinwoo.me"
+url: "https://blog.kimjinwoo.me"
 
 github:
   username: battlebotdev # change to your github username
@@ -87,10 +87,10 @@ comments:
   disqus:
     shortname: # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
   utterances:
-    repo: "battlebotdev/blog" # <gh-username>/<repo>
+    repo: "battlebotdev/KimJinwoo2198.github.io" # <gh-username>/<repo>
     issue_term: url # < url | pathname | title | ...>
   giscus:
-    repo: "battlebotdev/blog" # <gh-username>/<repo>
+    repo: "battlebotdev/KimJinwoo2198.github.io" # <gh-username>/<repo>
     repo_id: "R_kgDOLFlKGQ"
     category: "Announcements"
     category_id: "DIC_kwDOLFlKGc4Ccjp4"
@@ -113,7 +113,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: "https://kimjinwoo.me"
+baseurl: "https://blog.kimjinwoo.me"
 # baseurl: ""
 
 # ------------ The following options are not recommended to be modified ------------------

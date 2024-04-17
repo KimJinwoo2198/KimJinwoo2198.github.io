@@ -26,8 +26,10 @@ order: 4
 - 디스코드 봇([배틀이](https://battlebot.kr)) CEO
 - [Team. Archive](https://discord.gg/WtGq7D7BZm) CEO
 - [디벤치 포럼](https://devbench.kr/) 개발진
+- Google IT Support Professional Certificate 수료
+- Meta Back-End Developer Specialization
+- 2023 Hello New() World 해커톤 본선 진출
 - ICT AWARD KOREA 2021 이산수학 부분 장려상
 - ICT AWARD KOREA 2023 프로그래밍 부분 장려상
 - 2019 초등학교 SW교육 피지컬컴퓨팅 사고력 대회 우수상
-- 2023 Hello New() World 해커톤 본선 진출
 - 2022 NYPC 예선 1차 통과
