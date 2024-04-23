@@ -26,7 +26,7 @@ description: >- # used by seo meta and the atom feed
 url: "https://blog.kimjinwoo.me"
 
 github:
-  username: battlebotdev # change to your github username
+  username: kimjinwoo0628 # change to your github username
 
 twitter:
   username: kimjinwoo0628 # change to your twitter username
@@ -37,7 +37,7 @@ social:
   name: KimJinwoo
   email: kimjw2198@gmail.com # change to your email address
   links:
-    - https://github.com/battlebotdev # change to your github homepage
+    - https://github.com/kimjinwoo0628 # change to your github homepage
     - https://twitter.com/kimjinwoo0628 # change to your twitter homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
@@ -72,7 +72,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://media.discordapp.net/attachments/949881645815722014/1196832239430930452/ac989398d54988844ba13c2d4f5d3e65.webp?ex=65b90fe1&is=65a69ae1&hm=c6028f9587f35fe989e64452a2a5a074a00c6f21501d8189798cb1986a4d639a&=&format=webp
+avatar: https://cdn.discordapp.com/attachments/924681109135056916/1232463225573081168/battlebot.png?ex=66298c53&is=66283ad3&hm=66300c8576f3eae2b2720a56d9d0fde8926058092721b4176ac0a544843b58ae&
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
