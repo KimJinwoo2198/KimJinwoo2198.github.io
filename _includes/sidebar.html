@@ -2,13 +2,17 @@
 
 <aside aria-label="Sidebar" id="sidebar" class="d-flex flex-column align-items-end">
   <header class="profile-wrapper">
-    <a href="{{ '/' | relative_url }}" id="avatar" class="rounded-circle">
-      {%- if site.avatar != empty and site.avatar -%}
-        {%- capture avatar_url -%}
-          {% include img-url.html src=site.avatar %}
-        {%- endcapture -%}
-        <img src="{{- avatar_url -}}" width="112" height="112" alt="avatar" onerror="this.style.display='none'">
-      {%- endif -%}
+    <a href="{{ '/assets/img/favicons' | relative_url }}" id="avatar" class="rounded-circle">
+      {% capture image_path %}{{ '/assets/img/favicons' | relative_url }}{% endcapture %}
+
+      {% comment %} <link rel="apple-touch-icon" sizes="180x180" href="{{ image_path }}/apple-touch-icon.png"> {% endcomment %}
+      <img
+        src="{{ image_path }}/apple-touch-icon.png"
+        width="112"
+        height="112"
+        alt="avatar"
+        onerror="this.style.display='none'"
+      >
     </a>
 
     <h1 class="site-title">
