@@ -1,6 +1,6 @@
 ---
 title: "아이패드 프로, 애플이 알려주지 않은 것들"
-date: 2024-05-08 00:34:00 +09:00
+date: 2024-05-08 23:31:00 +09:00
 author: KimJinwoo
 category: [애플, 뉴스]
 toc: false
