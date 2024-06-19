@@ -16,7 +16,7 @@ order: 4
 
 # Contact Information
 
-> [**Email: kimjw2198@gmail.com**](mailto:kimjw2198@gmail.com) <br> [**Instagram: : @kimjinwoo07**](https://instagram.com/kimjinwoo07) <br> [**X( Twitter ) : @kimjinwoo0628**](https://twitter.com/kimjinwoo0628) <br>
+> [**Email: contact@kimjinwoo.me**](mailto:contact@kimjinwoo.me) <br> [**Instagram: : @kimjinwoo07**](https://instagram.com/kimjinwoo07) <br> [**X( Twitter ) : @kimjinwoo0628**](https://twitter.com/kimjinwoo0628) <br>
 
 # 개인 프로필 및 이력
 
@@ -33,3 +33,13 @@ order: 4
 - ICT AWARD KOREA 2023 프로그래밍 부분 장려상
 - 2019 초등학교 SW교육 피지컬컴퓨팅 사고력 대회 우수상
 - 2022 NYPC 예선 1차 통과
+- **Google Advanced Data Analytics Professional Certificate** 취득
+- **Google Data Analytics Professional Certificate** 취득
+- **Google IT Support Professional Certificate** 취득
+- **Google Project Management: Professional Certificate** 취득
+- **IBM Data Analyst Professional Certificate** 취득
+- **Intel® AI Fundamentals Specialization** 이수
+- **Meta Back-End Developer Professional Certificate** 취득
+- **Meta Database Engineer Professional Certificate** 취득
+- **Meta Front-End Developer Professional Certificate** 취득
+- **2023 Hello New() World 해커톤 본선 진출**
