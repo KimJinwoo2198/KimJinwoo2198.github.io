@@ -3,6 +3,8 @@ icon: fas fa-info-circle
 order: 4
 ---
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=160&section=header&text=Hi!%20I%27m%20Kim%20Jinwoo%20&fontSize=75&fontAlign=50&fontAlignY=70&fontColor=ffffff)
+
 안녕하세요, IT와 일상을 아우르는 다양한 주제의 블로그를 운영하는 고등학생 '김진우'입니다.
 
 2024년 1월에 개설한 '김진우' 블로그는 최신 IT 소식, 스마트폰 및 컴퓨터 관련 제품 리뷰, 효과적인 기술 활용 방법 등을 소개하고자 합니다. 저는 기술에 대한 열정과 일상 속 소소한 경험을 여러분과 나누고 싶어 이 블로그를 시작하게 되었습니다.
@@ -42,3 +44,5 @@ order: 4
 - **Meta Back-End Developer Professional Certificate** 취득
 - **Meta Database Engineer Professional Certificate** 취득
 - **Meta Front-End Developer Professional Certificate** 취득
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimjw0628)](https://solved.ac/kimjw0628)
